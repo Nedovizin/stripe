@@ -1,1 +1,1 @@
-web: gunicorn socialweb.wsgi --log-file -
+web: gunicorn stripe_project.wsgi --log-file -
