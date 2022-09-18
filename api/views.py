@@ -1,4 +1,3 @@
-import django.conf
 import stripe as st
 from django.http import Http404, JsonResponse
 from django.shortcuts import render
